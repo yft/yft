@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-   [ESLint 、 Prettier 、 Vite 和 Vue.js 3](https://vueschool.io/articles/vuejs-tutorials/eslint-and-prettier-with-vite-and-vue-js-3/)
+-   [eslint-plugin-vue 用户手册](https://eslint.vuejs.org/user-guide/#installation)
+-   [vue 3 setup](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup)
