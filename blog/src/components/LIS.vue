@@ -27,8 +27,7 @@
       placeholder="请输入以 , 分割的数字"
     />
     <el-button type="primary" style="margin-top: 10px" @click="updateInput">
-      确定
-      <el-icon><caret-right /></el-icon>
+      Confirm
     </el-button>
 
     <p style="font-size: 20px">
