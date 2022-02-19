@@ -25,6 +25,7 @@
       :rows="2"
       type="textarea"
       placeholder="请输入以 , 分割的数字"
+      style="font-size: 20px"
     />
     <el-button type="primary" style="margin-top: 10px" @click="updateInput">
       Confirm
