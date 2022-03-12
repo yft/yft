@@ -1,7 +1,7 @@
 <template>
   <div>
     <el-card style="margin: 40px 0; font-size: 20px">
-      <span>最长递增子序列（贪心 + 二分查找）</span>
+      <span>最长递增子序列（动态规划 + 二分查找）</span>
       <el-divider direction="vertical" />
 
       <el-link
@@ -27,7 +27,7 @@
       placeholder="请输入以 , 分割的数字"
       style="font-size: 20px"
     />
-    <el-button type="primary" style="margin-top: 10px" @click="updateInput">
+    <el-button type="primary" style="margin-top: 20px" @click="updateInput">
       Confirm
     </el-button>
 

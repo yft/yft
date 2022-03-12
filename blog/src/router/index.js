@@ -11,6 +11,11 @@ const routes = [
     name: "LongestIncreasingSubsequence",
     component: () => import("../views/LongestIncreasingSubsequence.vue"),
   },
+  {
+    path: "/zheng-ze-biao-da-shi-pi-pei-lcof",
+    name: "ZhengZeBiaoDaShiPiPeiLcof",
+    component: () => import("../views/ZhengZeBiaoDaShiPiPeiLcof.vue"),
+  },
   { path: "/:pathMatch(.*)*", redirect: { name: "HomePage" } },
 ];
 
